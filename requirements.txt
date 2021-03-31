@@ -24,7 +24,7 @@ httplib2==0.9
 idna==2.0
 ipaddress==1.0.14
 lockfile==0.10.2
-lxml==3.4.4
+lxml==4.6.3
 mate-menu==5.6.5a0
 netifaces==0.10.4
 oauthlib==1.0.0
