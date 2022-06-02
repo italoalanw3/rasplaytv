@@ -19,7 +19,7 @@ folder-color-caja==0.0.78
 folder-color-common==0.0.78
 futures==3.0.4
 goslate==1.5.1
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.9
 idna==2.0
 ipaddress==1.0.14
