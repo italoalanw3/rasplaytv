@@ -58,6 +58,6 @@ system-service==0.1.6
 Twisted-Core==15.2.1
 Twisted-Web==15.2.1
 urllib3==1.11
-wheel==0.24.0
+wheel==0.38.1
 xdiagnose==3.8.1
 zope.interface==4.1.2
